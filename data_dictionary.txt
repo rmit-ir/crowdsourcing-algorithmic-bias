@@ -1,0 +1,40 @@
+This survey ask participant to do google search for 10 different keywords in google.
+And from the HTML content they submit, we have fetched the result from the their search
+
+Each participant will do one survey only.
+There is 50 participant, therefore 50 survey
+Each survey has 10 keywords
+Each keyword has 10 result item (each google search page give you 10 result). However, in some case it's only has 9 results.
+Result item is a item of the search result
+
+"#"
+"Survey Id" 
+"Keyword Id"
+"Keyword Content"
+"Country Of Origin Id"
+"Country Of Origin Label" : country where participant come from
+"Country Id"
+"Country Label" : : country where participant living now
+"Province Id"
+"Province Label" 
+"Age Group Id"
+"Age Group Label" 
+"Gender Label"
+"Share Device"
+"Mobile Type"
+"Degree"
+"Rank Pandemic" : participant will rate their anxiety about Covid
+"Source Information Id"
+"Source Information Label" : where participant get information
+"Result Item Rank" : 
+"Result Item Title"
+"Result Item Metadesc"
+"Result Item Created At"
+"Result Item Full Url"
+"Result Item Full Domain"
+"Google Tracked Country"
+"Google Tracked Address"
+"Result Item Openrank" : openrank calculate using https://openrank.io/ for each result item
+"Keyword Openrank Average" : calculate average of the whole keyword
+"Survey Openrank Average" : calculate average of the whole survey
+"Html File" : the actual html has been capture from participant
