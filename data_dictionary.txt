@@ -1,5 +1,4 @@
-This survey ask participant to do google search for 10 different keywords in google.
-And from the HTML content they submit, we have fetched the result from the their search
+The survey is to findout if there is an
 
 Each participant will do one survey only.
 There is 50 participant, therefore 50 survey
