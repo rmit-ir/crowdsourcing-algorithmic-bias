@@ -1,11 +1,10 @@
 # A Crowdsourcing Methodology to Measure Algorithmic Bias in Black-box Systems: A Case Study with COVID-related Searches
 
-This repository contains the data collected via crowdsourcing to study system behavior of a commercial search engine with COVID-related queries. The work will presented at the [Bias workshop at ECIR 2022](https://biasinrecsys.github.io/ecir2022/).
+This repository contains the data collected via crowdsourcing to study system behavior of a commercial search engine with COVID-related queries. The work has been presented at the [Bias workshop at ECIR 2022](https://biasinrecsys.github.io/ecir2022/): https://www.youtube.com/watch?v=htDPUL3EqBA
 
 If you make use of this resource, please cite the paper below.
 
-Binh Le, Damiano Spina, Falk Scholer, Hui Chia. 2022. [A Crowdsourcing Methodology to Measure Algorithmic Bias in Black-box Systems: 
-          A Case Study with COVID-related Searches](https://www.damianospina.com/publication/le-2022-crowdsourcing/le-2022-crowdsourcing.pdf). In Proceedings of the Third Workshop on Bias and Social Aspects in Search and Recommendation (Bias @ ECIR 2022). Springer.
+Le, Binh, Spina, Damiano, Scholer, Falk, Chia, Hui (2022). [A Crowdsourcing Methodology to Measure Algorithmic Bias in Black-Box Systems: A Case Study with COVID-Related Searches](https://www.damianospina.com/publication/le-2022-crowdsourcing/le-2022-crowdsourcing.pdf). In: Boratto, L., Faralli, S., Marras, M., Stilo, G. (eds) Advances in Bias and Fairness in Information Retrieval. BIAS 2022. Communications in Computer and Information Science, vol 1610. Springer, Cham. https://doi.org/10.1007/978-3-031-09316-6_5
 
 ```bibtex
 @inproceedings{le2022crowdsourcing,
@@ -26,6 +25,7 @@ Binh Le, Damiano Spina, Falk Scholer, Hui Chia. 2022. [A Crowdsourcing Methodolo
  series = {Bias @ ECIR 2022},
  title = {A Crowdsourcing Methodology to Measure Algorithmic Bias in Black-box Systems: 
           A Case Study with COVID-related Searches},
+ doi = {10.1007/978-3-031-09316-6_5},
  year = {2022}
 }
 ```
